@@ -4,6 +4,12 @@
     
 }
   
+.jumbotron {
+  background-image: url(../images/jumbotron_3.jpg);  
+  height: 350px;
+  margin-top: 30px;
+}
+
 }
 .text-muted {
     
@@ -37,6 +43,33 @@
     margin:auto;
 }
 
+.offer-title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.orders p  {
+    padding-bottom: 20px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.contact h4 {
+    margin-bottom: 20px;
+}
+
+.contact p {
+   text-align: center;
+    width: 80%;
+    margin: auto; 
+}
+
+ .card-title{
+    
+    margin-bottom: 30px;
+}
+
 .contact-form {
     background: linear-gradient(to top, #cccccc -1%, #ffffff 100%);
     border: solid #a6a6a6 1px;
@@ -63,6 +96,10 @@
 .contact {
    height: 680px;
    margin-bottom: 60px;    
+}
+
+.contact p {
+    margin-bottom: 5px;
 }
 
 iframe {
