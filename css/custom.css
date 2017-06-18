@@ -43,6 +43,11 @@
     margin:auto;
 }
 
+.btn {
+    margin-top: 32px;
+    margin-bottom: 80px;
+}
+
 .offer-title {
     margin-top: 20px;
     margin-bottom: 20px;
